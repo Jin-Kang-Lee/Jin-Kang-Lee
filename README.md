@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jin Kang Lee
 
-**AI Engineer (LLM / NLP) • Student at SIT | Research Intern @ SIT × NVIDIA AI Center • Singapore**
+**Aspiring AI Engineer (LLM / NLP) • Student at SIT | AI Research Assistant @ SIT × NVIDIA AI Center • Singapore**
 
 ---
 
@@ -44,21 +44,7 @@ Built a chatbot using LangChain, FAISS, and OpenAI API; implemented hybrid BM25 
 
 ---
 
-## 🎯 Why Explore My Repos?
-
-- I build from concept to deployment, combining AI, LLMs, and engineering rigor
-- I focus on **ethical, accessible, and production-grade** systems
-- I’m actively shaping a project (Skill‑Issue.AI) that blends RAG, prompt engineering, and ML pipelines tailored to user value
-
----
-
 ## 👀 Let’s Connect
 
 - LinkedIn: [linkedin.com/in/jinkang-lee](https://sg.linkedin.com/in/jinkang-lee)  
 - Portfolio site: [jinkang-lee.vercel.app](https://jinkang-lee.vercel.app)  
-
-I’m open to collaborations in LLM agents, conversational systems, and data-driven AI applications. Feel free to browse my code or reach out — happy to share details!
-
----
-
-*This README evolves with my GitHub activity and reflects projects and tools that match current AI, crypto, and fintech opportunities.*
