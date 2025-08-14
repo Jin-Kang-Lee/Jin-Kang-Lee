@@ -27,23 +27,6 @@ I’m currently building **Skill‑Issue.AI**, a platform aimed at helping stude
 
 ---
 
-## 📚 Highlights & Projects
-
-### 💼 Skill‑Issue.AI – Resume-Based Career Suggestion Platform  
-*LangChain · Ollama · FastAPI · React.js · FAISS*  
-Developing a full-stack AI system to help university students optimize their resumes and discover suitable roles using prompt-based feedback and personalized suggestions — all powered by local LLMs and efficient retrieval pipelines.
-
-### 🎙 Real-Time AI Debater (SIT × NVIDIA)  
-Integrated ASR, LLMs, and TTS into a spoken debate agent with sub‑2s latency for discussion on complex topics like healthcare ethics.
-
-### 🤖 ForumAId Summarization Tool  
-Added summarization feature to an academic discussion platform (PHP/Laravel), reducing instructor review load by ~40%.
-
-### 💬 SIT RAG Chatbot  
-Built a chatbot using LangChain, FAISS, and OpenAI API; implemented hybrid BM25 + embedding retrieval to answer university queries with improved accuracy.
-
----
-
 ## 👀 Let’s Connect
 
 - LinkedIn: [linkedin.com/in/jinkang-lee](https://sg.linkedin.com/in/jinkang-lee)  
