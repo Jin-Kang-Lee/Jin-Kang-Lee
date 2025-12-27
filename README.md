@@ -30,4 +30,4 @@ I’m currently building **Skill‑Issue.AI**, a platform aimed at helping stude
 ## 👀 Let’s Connect
 
 - LinkedIn: [linkedin.com/in/jinkang-lee](https://sg.linkedin.com/in/jinkang-lee)  
-- Portfolio site: [jinkang-lee.vercel.app](https://jinkang-lee.vercel.app)  
+- Portfolio site: [jinkang-portfolio-website.app](https://jinkang-portfolio-website.vercel.app)  
