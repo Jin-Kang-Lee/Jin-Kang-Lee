@@ -1,33 +1,52 @@
-# 👋 Hi, I’m Jin Kang Lee
+# 👋 Hi, I’m Jin Kang Lee
 
-**Aspiring AI Engineer (LLM / NLP) • Student at SIT | AI Research Assistant @ SIT × NVIDIA AI Center • Singapore**
+**AI Engineer (LLMs · RAG · Agentic AI)**  
+Applied Artificial Intelligence Undergraduate @ Singapore Institute of Technology  
+AI Engineer @ SIT × NVIDIA AI Center 🇸🇬
 
 ---
 
 ## 🚀 About Me
 
-I design and build AI systems that blend LLMs, RAG pipelines, and speech interfaces to solve real-world problems. At the SIT × NVIDIA Joint AI Center, I engineered AI tools that support NLP-driven education and dialogue:
+I design and build **reliable, production-oriented AI systems** using **LLMs, RAG, and agentic architectures**. My focus is on the *last mile* of AI engineering—making sure AI systems are **auditable, controllable, and safe to deploy** in real-world settings such as education, finance, and enterprise workflows.
 
-- 🎓 LLM-powered summarization for *ForumAId*, reducing instructor workload by ~40%
-- 💬 Real-Time AI Debater using ASR → LLM → TTS with sub‑2s response latency
-- 🤖 RAG-based chatbot using LangChain and FAISS to boost factual accuracy by 30–50%
+At the **SIT × NVIDIA AI Center**, I have worked on AI systems that go beyond demos, including:
 
-I’m currently building **Skill‑Issue.AI**, a platform aimed at helping students tailor their resumes using locally hosted LLMs and RAG-based retrieval — ideal preparation for roles in LLM product development, AI risk, or conversational systems.
+- 🎓 **LLM-powered summarisation** for *ForumAId*, reducing instructor grading and review workload by ~40%
+- 💬 **Real-time AI Debater** (ASR → LLM → TTS) with sub-2s end-to-end latency
+- 🤖 **RAG-based AI Search Agent** using hybrid retrieval (BM25 + FAISS), improving factual accuracy by ~30–50%
+
+I am currently building **Project Sentinel**, a **multi-agent AI system** that applies LLMs, RAG, and deterministic guardrails to automate **high-stakes financial decision workflows**, serving as a testbed for reliable and explainable agentic AI.
+
+---
+
+## 🧠 What I’m Interested In
+
+- AI Agents & Multi-Agent Systems  
+- Retrieval-Augmented Generation (RAG)  
+- Hallucination control & deterministic guardrails  
+- LLM evaluation, reliability, and deployment  
+- AI systems for regulated or high-stakes environments  
 
 ---
 
 ## 🧰 Tech Stack
 
-**Backend / APIs:** FastAPI · PHP Laravel  
+**Languages:** Python · SQL  
+**AI / Agent Frameworks:** LangGraph · LangChain · FAISS · OpenAI API · Ollama  
+**Backend:** FastAPI · PHP (Laravel)  
 **Frontend:** React.js · Tailwind CSS  
-**LLM & RAG Tools:** LangChain · FAISS · Ollama · OpenAI API  
-**Speech Systems:** Whisper or ASR APIs · TTS services  
-**Data & ML:** Python · scikit-learn · pandas · numpy  
-**Other Tools:** Git · GitHub · REST APIs  
+**Data & ML:** Pydantic · Pandas · NumPy · scikit-learn  
+**Speech Systems:** ASR (Whisper / APIs) · TTS  
+**Infra & Tools:** Docker · Git · GitHub · REST APIs  
 
 ---
 
 ## 👀 Let’s Connect
 
-- LinkedIn: [linkedin.com/in/jinkang-lee](https://sg.linkedin.com/in/jinkang-lee)  
-- Portfolio site: [jinkang-portfolio-website.app](https://jinkang-portfolio-website.vercel.app)  
+- 💼 LinkedIn: [linkedin.com/in/jinkang-lee](https://www.linkedin.com/in/jinkang-lee)  
+- 🌐 Portfolio: [jinkang-portfolio-website.vercel.app](https://jinkang-portfolio-website.vercel.app)
+
+---
+
+*I enjoy working in team-based environments and learning from experienced engineers while contributing to real-world AI systems.*
